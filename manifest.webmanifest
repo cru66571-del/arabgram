@@ -1,0 +1,9 @@
+{
+  "name": "ArabGram",
+  "short_name": "ArabGram",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#c4a88a",
+  "theme_color": "#c4a88a",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
